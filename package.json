@@ -1,0 +1,34 @@
+{
+  "name": "a-life-well-lived",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@nuxt/icon": "^1.10.3",
+    "@nuxt/image": "^1.9.0",
+    "@vueuse/motion": "^2.2.6",
+    "gsap": "^3.12.7",
+    "ipx": "^3.1.1",
+    "lenis": "^1.1.20",
+    "nuxt": "^3.15.4",
+    "sharp": "^0.35.3",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@iconify-json/ph": "^1.2.2",
+    "@nuxt/eslint": "^0.7.5",
+    "@nuxtjs/tailwindcss": "^6.13.1",
+    "eslint": "^9.19.0",
+    "prettier": "^3.4.2",
+    "typescript": "^5.7.3"
+  }
+}
