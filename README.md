@@ -65,11 +65,6 @@ Everything editable lives in **one file**: [`data/content.ts`](./data/content.ts
 └── types/content.ts            # Content type contracts
 ```
 
-## Design system
-
-- **Palette** — Deep Navy `#0F172A` (canvas), Gold `#D4AF37` (reserved for the signature thread and accents), Warm White `#FAFAF9`, Stone `#78716C`.
-- **Type** — Playfair Display (display), Cormorant Garamond (pull quotes), Manrope (body/UI).
-- **Signature element** — the *golden thread*: a gold line that draws itself down the timeline as you scroll, echoed by hairline gold rules and Roman-numeral chapter eyebrows across the page.
 
 ## Accessibility & performance notes
 
